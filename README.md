@@ -1,4 +1,4 @@
-his is a simple FastAPI application that fetches the latest questions from Stack Overflow using the Stack Exchange API.
+This is a simple FastAPI application that fetches the latest questions from Stack Overflow using the Stack Exchange API.
 
 🚀 Features
 Retrieve the most recent Stack Overflow questions.
